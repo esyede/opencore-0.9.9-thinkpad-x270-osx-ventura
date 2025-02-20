@@ -47,7 +47,7 @@ Repositori ini berisi file - file EFI untuk kebutuhan hackintosh di Lenovo Think
  2. Flashdisk 16GB atau yang lebih besar
  2. Python 3
  3. File recovery boot MacOS Ventura untuk Thinkpad X270 [Download](https://drive.google.com/file/d/1yzPJPglbM4rZ0673S1tu0AEaNVLl8t9P/view?usp=sharing)
- 4. Download file-file EFI diari repositori ini [Download](https://github.com/esyede/opencore-0.9.9-thinkpad-x270-osx-ventura/archive/master.zip)
+ 4. Download file-file EFI diari repositori ini [Download](https://github.com/esyede/opencore-0.9.9-thinkpad-x270-osx-ventura/archive/main.zip)
  5. Aplikasi tambahan:
   - https://mackie100projects.altervista.org/download-opencore-configurator (untuk mount & replace EFI di flashdisk ke partisi EFI MacOS agar bisa boot tanpa flashdisk, untuk tweak `config.plist` juga)
   - https://github.com/mlch911/one-key-hidpi (untuk menaikan reolusi layar agar bisa HiDPI)
